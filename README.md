@@ -4,4 +4,5 @@ This repository constains the code and a detailed pipeline used for transcriptom
 
 If you use the pipeline or scripts, please cite the publication.
 
+The html pipelines are properly viewed by downloading the repository and opening the html files in a browser.
 Updates to the scripts are maintained in the phylo_scripts repository.
